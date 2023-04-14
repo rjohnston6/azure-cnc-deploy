@@ -60,7 +60,7 @@ The following are some of the parameters available to customize the deployment o
 | adminUsername | No | capicuser |
 | adminPasswordOrKey | Yes | $AZ_CNC_PASSWORD |
 | adminPublicKey | Yes | $AZ_CNC_SSHPUBKEY |
-| InfraVNETPOOL | No | 10.10.0.0/24 |
+| InfraVNETPool | No | 10.10.0.0/24 |
 | ExternalSubnets | No | 0.0.0.0/0 |
 
 ## Acknowledgements
